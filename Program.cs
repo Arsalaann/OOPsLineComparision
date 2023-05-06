@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Welcome to line Computation program");
+namespace OOPsLineComputation
+{
+    public class Program
+    {
+        public static void Main(string[] args){
+            DefineLine line=new DefineLine();
+        }
+    }
+}

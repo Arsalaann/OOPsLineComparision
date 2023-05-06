@@ -1,0 +1,15 @@
+/home/luser/pgming/OOPsLineComputation/bin/Debug/net6.0/OOPsLineComputation
+/home/luser/pgming/OOPsLineComputation/bin/Debug/net6.0/OOPsLineComputation.deps.json
+/home/luser/pgming/OOPsLineComputation/bin/Debug/net6.0/OOPsLineComputation.runtimeconfig.json
+/home/luser/pgming/OOPsLineComputation/bin/Debug/net6.0/OOPsLineComputation.dll
+/home/luser/pgming/OOPsLineComputation/bin/Debug/net6.0/ref/OOPsLineComputation.dll
+/home/luser/pgming/OOPsLineComputation/bin/Debug/net6.0/OOPsLineComputation.pdb
+/home/luser/pgming/OOPsLineComputation/obj/Debug/net6.0/OOPsLineComputation.csproj.AssemblyReference.cache
+/home/luser/pgming/OOPsLineComputation/obj/Debug/net6.0/OOPsLineComputation.GeneratedMSBuildEditorConfig.editorconfig
+/home/luser/pgming/OOPsLineComputation/obj/Debug/net6.0/OOPsLineComputation.AssemblyInfoInputs.cache
+/home/luser/pgming/OOPsLineComputation/obj/Debug/net6.0/OOPsLineComputation.AssemblyInfo.cs
+/home/luser/pgming/OOPsLineComputation/obj/Debug/net6.0/OOPsLineComputation.csproj.CoreCompileInputs.cache
+/home/luser/pgming/OOPsLineComputation/obj/Debug/net6.0/OOPsLineComputation.dll
+/home/luser/pgming/OOPsLineComputation/obj/Debug/net6.0/ref/OOPsLineComputation.dll
+/home/luser/pgming/OOPsLineComputation/obj/Debug/net6.0/OOPsLineComputation.pdb
+/home/luser/pgming/OOPsLineComputation/obj/Debug/net6.0/OOPsLineComputation.genruntimeconfig.cache
