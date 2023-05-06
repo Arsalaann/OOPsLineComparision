@@ -9,8 +9,10 @@ namespace OOPsLineComputation
             DefineLine line2=new DefineLine(obj.x1,obj.y1,obj.x2,obj.y2);
             if(line1.area.Equals(line2.area))
                 Console.WriteLine("Lines are Equal");
+            else if(line1.area>line2.area)
+                Console.WriteLine("Line1 is greater than Line2 by "+(line1.area-line2.area)+" Length");
             else
-                Console.WriteLine("Lines are not Equal");
+                Console.WriteLine("Line2 is greater than Line1 by "+(line2.area-line1.area)+" Length");
         }
     }
 }
